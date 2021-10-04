@@ -6,7 +6,9 @@ https://rentgap.us
 
 ## Data
 
-Rent and demographic data were fetched using the TidyCensus r library.
+Rent and demographic data were fetched using the [tidycensus](https://cran.r-project.org/web/packages/tidycensus/index.html) r library.
+
+CBSA 
 
 ## Results
 
