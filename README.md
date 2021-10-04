@@ -1,4 +1,4 @@
-# Rent-Gap
+# The Rent Gap
 
 This project showcases _rent gap_ throughout Core Based Statistical Areas (CBSA) at the census tract level. 
 
